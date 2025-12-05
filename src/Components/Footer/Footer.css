@@ -1,0 +1,68 @@
+.footer{
+    padding-bottom: 20px;
+}
+.footer-insta,.footer-tel{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 10px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.footer-insta span,.footer-tel span{
+    margin-right: 5px;
+}
+.footer-insta i,.footer-tel i{
+    font-size: 20px;
+}
+.footer-insta .footer-insta__info,.footer-tel .footer-tel__info{
+    display: flex;
+    align-items: center;
+}
+  .footer-insta{
+    background: linear-gradient(145deg, #FA9F6F, #FA697C);
+  }
+  .footer-tel{
+        background: linear-gradient(145deg, #96D5F5, #5EBAE8);
+  }
+  .numbers{
+    display: flex;
+    background-color: #23232b;
+    padding: 2rem 0;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  .number{
+    color: white;
+    padding:  0.8rem 1rem;
+    border: 1px solid #1c1c22;
+    margin-left: 10px;
+    background-color: #1a1818;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    /* transition-timing-function: ease-in; */
+  }
+  .number:hover{
+    background-color: #6898f8;
+  }
+  .number.active{
+    background-color: #6898f8;
+  }
+  @media (max-width:450px) {
+      .number{
+        padding: 0.4rem 0.6rem;
+        font-size: 0.6rem;
+        text-align: center;
+      }
+  }
+    @media (max-width:300px){
+          .number{
+        padding: 0.2rem 0.4rem;
+        font-size: 0.4rem;
+        text-align: center;
+      }
+    }
