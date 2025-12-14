@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rohan-movie/static/css/main.0be794ce.css",
+    "main.js": "/rohan-movie/static/js/main.5a9b8b8a.js",
+    "static/media/IRANSansWeb_Light.woff2": "/rohan-movie/static/media/IRANSansWeb_Light.fa9da5833df1aa71fcae.woff2",
+    "static/media/Island-Python-2025-Header.jpg": "/rohan-movie/static/media/Island-Python-2025-Header.427e6b8999ad2a039f44.jpg",
+    "static/media/Island-Python-2025-207x290.jpg": "/rohan-movie/static/media/Island-Python-2025-207x290.4b597bfbd4a5eb651afc.jpg",
+    "static/media/Avatar-Purusha-2-2024-207x290.jpg": "/rohan-movie/static/media/Avatar-Purusha-2-2024-207x290.3c7b22e782474bb6bb74.jpg",
+    "static/media/Avatar-Purusha-2-2024-Header.jpg": "/rohan-movie/static/media/Avatar-Purusha-2-2024-Header.3dc130f4cacd65bda691.jpg",
+    "static/media/The-Electric-State-2025-Header.jpg": "/rohan-movie/static/media/The-Electric-State-2025-Header.e5b7184489306cb2963b.jpg",
+    "static/media/Daaku-Maharaaj-2025-207x290.jpg": "/rohan-movie/static/media/Daaku-Maharaaj-2025-207x290.8dcab371b2f69315f043.jpg",
+    "static/media/The-Electric-State-2025-207x290.jpg": "/rohan-movie/static/media/The-Electric-State-2025-207x290.b9186d724468cbb7d7ed.jpg",
+    "static/media/Captain-America-Brave-New-World-2025-Header.jpg": "/rohan-movie/static/media/Captain-America-Brave-New-World-2025-Header.4e51dbb6749ded9507a0.jpg",
+    "static/media/High-Rollers-2025-207x290 (1).jpg": "/rohan-movie/static/media/High-Rollers-2025-207x290 (1).e0d0cd95d55cbdd34852.jpg",
+    "static/media/Max-2024-Header.jpg": "/rohan-movie/static/media/Max-2024-Header.d2711ae6715d35d03c0e.jpg",
+    "static/media/Matka-2024-Header.jpg": "/rohan-movie/static/media/Matka-2024-Header.9bae934609a93f8132fe.jpg",
+    "static/media/Captain-America-Brave-New-World-2025-207x290.jpg": "/rohan-movie/static/media/Captain-America-Brave-New-World-2025-207x290.0aa177c0d486dbfcd0f7.jpg",
+    "static/media/High-Rollers-2025-Header.jpg": "/rohan-movie/static/media/High-Rollers-2025-Header.2c10ecd594dc120ddbf7.jpg",
+    "static/media/Bheema-2024-Header.jpg": "/rohan-movie/static/media/Bheema-2024-Header.da23234c65da163d72c1.jpg",
+    "static/media/The-Gorge-2025-Header.jpg": "/rohan-movie/static/media/The-Gorge-2025-Header.cbe6dc23c76b988a042a.jpg",
+    "static/media/Dark-Nuns-2025-207x290.jpg": "/rohan-movie/static/media/Dark-Nuns-2025-207x290.c9041aec884b13d439fa.jpg",
+    "index.html": "/rohan-movie/index.html",
+    "main.0be794ce.css.map": "/rohan-movie/static/css/main.0be794ce.css.map",
+    "main.5a9b8b8a.js.map": "/rohan-movie/static/js/main.5a9b8b8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0be794ce.css",
+    "static/js/main.5a9b8b8a.js"
+  ]
+}
