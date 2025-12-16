@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rohan-movie/static/css/main.0be794ce.css",
+    "main.css": "/rohan-movie/static/css/main.081efda1.css",
     "main.js": "/rohan-movie/static/js/main.5a9b8b8a.js",
     "static/media/IRANSansWeb_Light.woff2": "/rohan-movie/static/media/IRANSansWeb_Light.fa9da5833df1aa71fcae.woff2",
     "static/media/Island-Python-2025-Header.jpg": "/rohan-movie/static/media/Island-Python-2025-Header.427e6b8999ad2a039f44.jpg",
@@ -20,11 +20,11 @@
     "static/media/The-Gorge-2025-Header.jpg": "/rohan-movie/static/media/The-Gorge-2025-Header.cbe6dc23c76b988a042a.jpg",
     "static/media/Dark-Nuns-2025-207x290.jpg": "/rohan-movie/static/media/Dark-Nuns-2025-207x290.c9041aec884b13d439fa.jpg",
     "index.html": "/rohan-movie/index.html",
-    "main.0be794ce.css.map": "/rohan-movie/static/css/main.0be794ce.css.map",
+    "main.081efda1.css.map": "/rohan-movie/static/css/main.081efda1.css.map",
     "main.5a9b8b8a.js.map": "/rohan-movie/static/js/main.5a9b8b8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0be794ce.css",
+    "static/css/main.081efda1.css",
     "static/js/main.5a9b8b8a.js"
   ]
 }
